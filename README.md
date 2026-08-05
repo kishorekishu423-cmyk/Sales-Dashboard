@@ -1,4 +1,4 @@
-#📊Sales Dashboard
+#Sales Dashboard
 
 #Project Overview
 This project is an interactive Sales Dashboard built using Microsoft Power BI. It provides insights into sales performance using charts, KPIs, and filters.
